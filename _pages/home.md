@@ -19,11 +19,16 @@ Since 2011, I have been working in various roles related to the production and p
 As a technical writer, I primarily see myself as a student and an educator, as someone who learns something new every day and documents this learning experience so that others can learn from it as well. I gather, produce, and disseminate knowledge about complex products, and respond to feedback in order to make the learning experience of readers/users as effective, engaging, and enjoyable as possible.
 
 ### Documentation projects
+
 - [Axiom documentation](https://axiom.co/docs/)
 - [PSPDFKit documentation](https://pspdfkit.com/developers/)
 - [Adverity documentation](https://docs.adverity.com/)
 - [JBStrap documentation](https://docs.jbstrap.com/)
 - [Tricentis Tosca documentation](https://documentation.tricentis.com/tosca/1600/en/content/resources/webhelp/cover_web.htm)
+
+### Talks
+
+**2022** [Documentation as marketing? From conflict to collaboration](https://www.youtube.com/watch?v=MuhQKWAo-VM). Presented at the Write the Docs Prague virtual conference.
 
 ### Professional experience
 
